@@ -3,7 +3,7 @@ version: "{build}"
 init:
   - git config --global core.autocrlf input
 
-clone_folder: c:\projects\SupaMegaExample1
+clone_folder: c:\projects\MarnusIncarnateExample1
 
 shallow_clone: false
 

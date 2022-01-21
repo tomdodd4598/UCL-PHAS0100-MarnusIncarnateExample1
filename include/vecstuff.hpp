@@ -5,9 +5,11 @@
 
 namespace myvec {
 
-    void print_vec(const std::vector<long>& vec);
+    void print_vec(const std::vector<int>& vec);
 
-    size_t count_vec(const std::vector<long>& vec, const long& target);
+    size_t count_vec(const std::vector<int>& vec, const int& target);
+
+    void add_elements(std::vector<int>& vec, int val, int ntimes);
 }
 
 #endif

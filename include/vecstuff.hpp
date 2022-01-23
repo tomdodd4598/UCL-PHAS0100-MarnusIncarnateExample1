@@ -1,5 +1,5 @@
-#ifndef MARNUS_H
-#define MARNUS_H
+#ifndef VECSTUFF_H
+#define VECSTUFF_H
 
 #include <vector>
 
